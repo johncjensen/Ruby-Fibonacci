@@ -13,4 +13,4 @@ Big thanks to [Mike Busch](https://gist.github.com/mikelikesbikes/1007228)'s Gis
 
 [Brook Riggio](https://github.com/brookr)
 #License
-[MIT License](johnjensen.mit-license.org)
+[MIT License](http://johnjensen.mit-license.org)
